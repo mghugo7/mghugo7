@@ -1,4 +1,4 @@
-# Hola a todos, soy Hugo Moya
+# Hola a todos, soy Hugo Moya 😃
 
 Actualmente, estoy trabajado como **Product** en la parte de las **pasarelas de pago** en *CoverManager*
 
